@@ -7,7 +7,7 @@ The database, called Airline passenger satisfaction, contains responses to quest
 The main goal of the study is to find the best model to accurately predict passenger satisfaction based on the information collected. 
 The structure of the project is as follows:
 - First file: Preparation_data_EDA:
-  1. Introduction and development environment preparation
+1. Introduction and development environment preparation
   2. Preparation data
   3. Exploratory Data analysis
 - Second file: Feature_selection_generation:
