@@ -8,17 +8,17 @@ The main goal of the study is to find the best model to accurately predict passe
 The structure of the project is as follows:
 - First file: Preparation_data_EDA:
 1. Introduction and development environment preparation
-  2. Preparation data
-  3. Exploratory Data analysis
+2. Preparation data
+3. Exploratory Data analysis
 - Second file: Feature_selection_generation:
-  1. Feature selection
-  2. Feature generation/engineering
+1. Feature selection
+2. Feature generation/engineering
 - Third file: Modelling:
-  1. Logistic regression
-  2. K-Nearest Neighbors
-  3. Random Forest
-  4. Gradient Boosting
-  5. Summary
+1. Logistic regression
+2. K-Nearest Neighbors
+3. Random Forest
+4. Gradient Boosting
+5. Summary
 
 In the repository are:
 * Folder data - contain data from Kaggle, all dataset created during the analysis and txt files with column names.
